@@ -6,6 +6,7 @@
 
 ## 🕹️주요기능
 - 재학생 인증
+- 마이페이지
 - 학사일정
 - 모바일 학생증
 - 재학생 커뮤니티
@@ -27,91 +28,39 @@
 전상우           | 이메일인증                       | 
 송우승           | 게시판, 재학생인증, 마이페이지       |
 
-
-<div>
   
-   ## 📚Stacks
-</div>
+## 📚Stacks
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/988b6e98-a0c0-4ac8-bd78-4aa3b2ff388b">
 
-<table>
-  <tr>
-    <th style="text-align:center;">Category</th>
-    <th style="text-align:center;">Skills</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong >FrontEnd</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>BackEnd</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Framework</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Libraries</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Server</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/Apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Database</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Development Environment</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/IntelliJ-fff?style=flat&logo=IntelliJ IDEA&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-05032?style=flat&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+## 🔖프로젝트 구조도
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/c87d1d39-1f65-4861-9197-184f8b876929">
 
-## 🎨 피그마 URL
-[피그마 디자인 링크](https://www.figma.com/design/PtnTXd1pkP7KtC5y6VGKaL/Untitled?node-id=0%3A1&t=Io9BQTwxoEgjetvu-1)
+## 📚프로젝트 실행 구조
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/9c02b65b-af6d-47a1-9c20-a87dfcc65c5c">
 
-## 📋플로우차트 URL
-[플로우차트 디자인 링크](https://whimsical.com/panda-hotel-home-4euVxN2zgsXk2r4cEj2hP5)
+## 🖼️데이터베이스 모델링
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/d118d05a-724b-413b-9155-992a962c22b0">
 
-## 🖼️물리 데이터베이스 모델
-<img src="https://github.com/user-attachments/assets/8cb28b7b-9089-4a3c-87ef-783e06fb7ac2" alt="image" width="800" height="600"/>
 
-## 🖼논리 데이터베이스 모델
-<img src="https://github.com/user-attachments/assets/521dd8f3-76dd-4002-8a01-ee6f010b968f" alt="image" width="800" height="600"/>
 
 ## ⚙️개발 환경
 | **항목**          | **내용**                   |
 |:-----------------:|:---------------------------:|
 | 운영체제          | Windows 10 64bit            |
-| 개발도구          | IntelliJ IDEA                |
-| 빌드툴            | Gradle                       |
-| 프로그래밍 언어    | Java, JavaScript, HTML, CSS |
-| 라이브러리        | React                        |
-| 프레임워크        | SpringBoot, JPA              |
-| 데이터베이스      | MySQL                        |
-| 모델링툴          | DA#Modeler5                  |
-| 협업툴            | GitHub, Notion               |
+| 개발도구          | Eclipse, VSCode             |
+| 프로그래밍 언어    | Java, JavaScript, HTML, CSS  |
+| 라이브러리        | React Native                 |
+| 프레임워크        | Express.js                   |
+| 데이터베이스       | MySQL                        |
+| 협업툴           | GitHub                       |
 
+결과
+ 핵심 기능 약 70% 완성, APK 파일 생성 완료
+어려웠던 점
+ 회원가입 시 이메일 인증, 이미지 업로드, 게시글 댓글과 좋아요 기능
+칭찬할 점
+ 프로젝트 초반부터 팀 내 친근한 분위기 형성, 이로 인한 친밀도 상승으로 서로 편하게 의견을 제시하고 도움 요청을 하며 원활한 프로젝트 진행이 가능했음
+보완할 점
+ UI 보완, 서버 코드 간결화, 알림 기능 추가
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/e53056a0-f9f4-4151-a08d-3d56472a2f80">
 
-## 🔥API
-- FullCalendar
