@@ -30,7 +30,6 @@
 
   
 ## 📚Stacks
-<img width="518" alt="image" src="https://github.com/user-attachments/assets/988b6e98-a0c0-4ac8-bd78-4aa3b2ff388b">
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/32e1c108-d8e8-419a-938a-44e2d7b95013">
 
 
