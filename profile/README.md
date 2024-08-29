@@ -57,6 +57,10 @@
 | 협업툴           | GitHub                       |
 
 
+## 📱실행화면
+<img width="1256" alt="image" src="https://github.com/user-attachments/assets/4c00b802-8c7a-443d-929d-8239011348e2">
+
+
 ## ✈️프로젝트 후기
 | 구분                 | 설명                      |
 |:-------------------:|:---------------------------|
