@@ -34,11 +34,10 @@
 
 
 ## 🔖프로젝트 구조도
-<img width="647" alt="image" src="https://github.com/user-attachments/assets/e8404abc-a0ee-4755-9bc0-c35c3c064730">
-
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/e8404abc-a0ee-4755-9bc0-c35c3c064730">
 
 ## 📚프로젝트 실행 구조
-<img width="632" alt="image" src="https://github.com/user-attachments/assets/9c02b65b-af6d-47a1-9c20-a87dfcc65c5c">
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/9c02b65b-af6d-47a1-9c20-a87dfcc65c5c">
 
 ## 🖼️데이터베이스 모델링
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/d118d05a-724b-413b-9155-992a962c22b0">
